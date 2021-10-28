@@ -12,7 +12,7 @@
 <br>
 
 >## Website 💻
-+ [Calculator](https://todolist-vjs.netlify.app/)
++ [Calculator](https://calculator-vanillajs-project.netlify.app/)
 
 <br>
 
