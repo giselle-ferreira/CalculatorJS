@@ -24,6 +24,7 @@ function del() {
 function calculate() {
   var result = document.getElementById('result').innerHTML
   if (result) {
-    document.getElementById('result').innerHTML = eval(result)
+    document.getElementById('result').innerHTML = eval(result).toFixed(2)
   }
+  var result = parseFloat(result)
 }
