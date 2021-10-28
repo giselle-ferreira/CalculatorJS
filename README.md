@@ -18,5 +18,5 @@
 
 >## Layout 🎥
 
-<img src="https://github.com/giselle-ferreira/CalculatorJS/blob/main/assets/calc.gif" />
+<img src="https://github.com/giselle-ferreira/CalculatorJS/blob/main/assets/calc2.gif" />
 
